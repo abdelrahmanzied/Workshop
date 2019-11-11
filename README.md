@@ -6,7 +6,7 @@ This is Note.
 
 ||||||| merged common ancestors
 =======
-## Skills
+## Skills [Heba]
 * HTML
 * CSS
 * Javascript
