@@ -1,7 +1,7 @@
 # Workshop
 Workshop Training Repository
 
-## Heba
+## Skills
 * HTML
 * CSS
 * Javascript
