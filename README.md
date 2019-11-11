@@ -2,8 +2,8 @@
 Workshop Training Repository
 
 ##Heba
-*HTML
-*CSS
-*Javascript
-*Jquery
-*Bootstrap
+[x] HTML
+[x] CSS
+[x] Javascript
+[x] Jquery
+[x] Bootstrap
