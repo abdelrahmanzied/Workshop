@@ -1,15 +1,17 @@
 # Workshop
 Workshop Training Repository
 
-<<<<<<< HEAD
-This is Note.
-
-||||||| merged common ancestors
-=======
-## Skills [Heba]
+<!-- Heba Salem -->
+## Heba
 * HTML
 * CSS
 * Javascript
 * Jquery
 * Bootstrap
->>>>>>> d6f3ae13f9e00c320be78ff98ff7bc69ec21c836
+
+<!-- Fatma Ragab-->
+## Fatma
+1. Html
+1. css
+1. js
+   1. jQuery
