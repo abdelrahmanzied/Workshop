@@ -1,7 +1,7 @@
 # Workshop
 Workshop Training Repository
 
-<<<<<<< HEAD
+
 ## Mohamed Safwat
 * HTML
 * CSS
@@ -23,4 +23,4 @@ Workshop Training Repository
 1. css
 1. js
    1. jQuery
->>>>>>> 797179db9abb2d9e599682a8c20af1d77dba119c
+
