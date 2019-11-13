@@ -16,7 +16,6 @@ Workshop Training Repository
 1. js
    1. jQuery
 
-<!-- Mohamed Hassan Ewis -->
 ## Mohamed Ewis
 - HTML
    - Pug.js
@@ -30,3 +29,12 @@ Workshop Training Repository
       - Vuex
       - Vuetify
 - Git / Github
+
+<!-- Hosny A.Barakat -->
+## Hosny
+- Html
+ - PugJs
+- Css
+ - Sass
+- Js
+ - Jquery
