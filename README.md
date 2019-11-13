@@ -19,6 +19,8 @@ Workshop Training Repository
 <!-- Hosny A.Barakat -->
 ## Hosny
 - Html
+ - PugJs
 - Css
+ - Sass
 - Js
  - Jquery
