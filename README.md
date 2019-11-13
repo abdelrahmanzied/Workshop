@@ -1,6 +1,12 @@
 # Workshop
 Workshop Training Repository
 
+## Mohamed Safwat
+* HTML
+* CSS
+* JS
+* Git
+
 <!-- Heba Salem -->
 ## Heba
 * HTML
@@ -15,11 +21,33 @@ Workshop Training Repository
 1. css
 1. js
    1. jQuery
-   
-<!-- huda hussein -->
+
 ## Huda
 * html
 * css
 * javascript
 * sass
 * bug
+
+## Mohamed Ewis
+- HTML
+   - Pug.js
+- CSS
+   - Sass
+   - Bootstrap
+- JS
+   - jQuery
+   - Gulp.js
+   - Vue.js
+      - Vuex
+      - Vuetify
+- Git / Github
+
+<!-- Hosny A.Barakat -->
+## Hosny
+- Html
+ - PugJs
+- Css
+ - Sass
+- Js
+ - Jquery
