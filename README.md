@@ -1,7 +1,6 @@
 # Workshop
 Workshop Training Repository
 
-
 ## Mohamed Safwat
 * HTML
 * CSS
@@ -22,6 +21,13 @@ Workshop Training Repository
 1. css
 1. js
    1. jQuery
+
+## Huda
+* html
+* css
+* javascript
+* sass
+* bug
 
 ## Mohamed Ewis
 - HTML
@@ -45,4 +51,3 @@ Workshop Training Repository
  - Sass
 - Js
  - Jquery
-
